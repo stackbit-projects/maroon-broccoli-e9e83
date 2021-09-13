@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Welcome to the Trofimciuc family website, where you can learn more about
-      our family.
+      Welcome to the Trofimciuc family where you can learn more about our
+      family.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
