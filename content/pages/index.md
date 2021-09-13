@@ -5,9 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: Welcome to the Trofimciuc family website
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+    content: >
+      Our family is happy to welcome you here. Browse through these pages and
+      lear about our family. Find out our history, where we come from and where
+      we're going. If you have any additional questions, [let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
